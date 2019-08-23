@@ -12,4 +12,11 @@
 [Excercise 1-3](https://github.com/amalielandt/week34/tree/master/wednesday/ex1-3/rest1) - Solution completed
 
 [Exercise 4](https://github.com/amalielandt/week34/tree/master/wednesday/ex4/names) - Solution completed
+
+ ### Thuesday
+
+[Excercise 1-3](https://github.com/amalielandt/week34/tree/master/thursday/ex1-4/Week1Day4) - Solution completed
+
+[Exercise 4](http://167.71.37.53:8080/Week1Day4/api/employee/) - Solution completed (Link til droplet)
+
  
