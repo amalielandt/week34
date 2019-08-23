@@ -17,6 +17,12 @@
 
 [Excercise 1-3](https://github.com/amalielandt/week34/tree/master/thursday/ex1-4/Week1Day4) - Solution completed
 
-[Exercise 4](http://167.71.37.53:8080/Week1Day4/api/employee/) - Solution completed (Link til droplet)
+[Exercise 4](http://167.71.37.53:8080/Week1Day4/api/employee/) - Solution completed (Link to droplet)
+
+ ### Thuesday
+
+[Study Point Excercise](https://github.com/amalielandt/week34/tree/master/friday/studypoint_exercise) - Solution completed
+
+[Link to droplet](http://167.71.37.53:8080/Week1Day4/api/employee/) - Solution completed
 
  
