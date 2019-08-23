@@ -19,7 +19,7 @@
 
 [Exercise 4](http://167.71.37.53:8080/Week1Day4/api/employee/) - Solution completed (Link to droplet)
 
- ### Thuesday
+ ### Friday
 
 [Study Point Excercise](https://github.com/amalielandt/week34/tree/master/friday/studypoint_exercise) - Solution completed
 
